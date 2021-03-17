@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+* A
+* B
+* C
+  * CIA
+  * RAW
+  * FBI
+  * NSA
+1. 🚙
+2. 🏎️
+3. 🚓
